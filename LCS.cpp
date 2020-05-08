@@ -68,3 +68,4 @@ int main() {
 	}这是用来检查矩阵的*/
 	cout << getLCS(x,y,b);
 }
+
